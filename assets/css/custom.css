@@ -3,6 +3,21 @@
  *
  * Here you can add your custom CSS code.
  */
+/**
+ * CUSTOM CSS
+ *
+ * Here you can add your custom CSS code.
+ */
+
+.u-list-reset {
+    list-style: none;
+    margin-left: 0;
+}
+
+.u-mb-1 {
+    margin-bottom: .5rem;
+}
+
 @media (min-width: 1024px) {
 
     .o-section__header {
