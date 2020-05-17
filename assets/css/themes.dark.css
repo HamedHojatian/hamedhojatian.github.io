@@ -37,7 +37,7 @@ h6 {
 a,
 .t-link-container .t-link-container__item,
 .t-link-container:hover .t-link-container__item--blended {
-  color: #00cc44ce;
+  color: #09d84ed8;
 }
 
 /* Hover Links */
@@ -62,7 +62,7 @@ hr,
 /* Primary Color */
 .t-primary-color,
 .t-primary-color-line {
-  color: #00cc44b6;
+  color: #09d84ed8;
 }
 
 .t-primary-bg,
@@ -72,8 +72,8 @@ hr,
 
 /* Preloader */
 .t-preloader__spinner:not(:required):before {
-  border-top-color: #00cc44b6;
-  border-bottom-color: #00cc44b6;
+  border-top-color: #09d84ed8;
+  border-bottom-color: #09d84ed8;
 }
 
 /* Brand Colors */
