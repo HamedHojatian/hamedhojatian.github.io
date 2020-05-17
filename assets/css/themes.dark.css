@@ -62,18 +62,18 @@ hr,
 /* Primary Color */
 .t-primary-color,
 .t-primary-color-line {
-  color: #00cc44;
+  color: #00cc44b6;
 }
 
 .t-primary-bg,
 .t-primary-color-line {
-  background: #00cc44;
+  background: #002fffce;
 }
 
 /* Preloader */
 .t-preloader__spinner:not(:required):before {
-  border-top-color: #00cc44;
-  border-bottom-color: #00cc44;
+  border-top-color: #00cc44b6;
+  border-bottom-color: #00cc44b6;
 }
 
 /* Brand Colors */
@@ -82,7 +82,7 @@ hr,
 }
 
 .t-title__second-word {
-  color: #00cc44;
+  color: #00cc44b6;
 }
 
 .t-sub-title {
@@ -149,16 +149,16 @@ hr,
 }
 
 .t-social-button:hover .fas{
-  color: #00cc44;
+  color: #00cc44b6;
 },
 .t-social-button:hover .far{
-  color: #00cc44;
+  color: #00cc44b6;
 },
 .t-social-button:hover .fal{
-  color: #00cc44;
+  color: #00cc44b6;
 },
 .t-social-button:hover .fab {
-  color: #00cc44;
+  color: #00cc44b6;
 }
 
 /* Image Overlay */

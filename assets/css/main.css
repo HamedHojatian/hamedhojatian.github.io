@@ -1228,6 +1228,7 @@ img[height] {
     -ms-flex: 0 0 auto;
         flex: 0 0 auto;
     width: calc(99.999999% * 0.58333);
+    text-align: justify;
   }
   .o-grid__col-md-7:nth-child(1n){
     margin-right: 0;
@@ -2039,7 +2040,8 @@ img[height] {
 }
 
 .c-intro p {
-  margin-bottom: 1.1rem;
+  margin-bottom: 2rem;
+  text-align: justify;
 }
 
 @media (min-width: 600px) {
