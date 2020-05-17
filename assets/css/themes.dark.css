@@ -37,7 +37,7 @@ h6 {
 a,
 .t-link-container .t-link-container__item,
 .t-link-container:hover .t-link-container__item--blended {
-  color: #00cc44;
+  color: #00cc44ce;
 }
 
 /* Hover Links */
