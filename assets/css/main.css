@@ -653,6 +653,7 @@ img[height] {
 .o-content__body,
 .o-content__body :last-child {
   margin-bottom: 0;
+  font-weight: 400;
 }
 
 @media (min-width: 760px) {
@@ -2095,6 +2096,7 @@ img[height] {
 .c-work__title,
 .c-work__location {
   margin-bottom: .4rem;
+  text-transform: initial;
 }
 
 .c-work__timeframe,
