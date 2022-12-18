@@ -37,7 +37,7 @@ h6 {
 a,
 .t-link-container .t-link-container__item,
 .t-link-container:hover .t-link-container__item--blended {
-  color: #09d84ed8;
+  color: #1da5ffee;
 }
 
 /* Hover Links */
@@ -62,18 +62,22 @@ hr,
 /* Primary Color */
 .t-primary-color,
 .t-primary-color-line {
-  color: #09d84ed8;
+  color: #1da5ffee;
 }
 
-.t-primary-bg,
+.t-primary-bg {
+    background: #F8BB10;
+}
+
 .t-primary-color-line {
   background: #1da5ffee;
 }
 
+
 /* Preloader */
 .t-preloader__spinner:not(:required):before {
-  border-top-color: #09d84ed8;
-  border-bottom-color: #09d84ed8;
+  border-top-color: #1da5ffee;
+  border-bottom-color: #1da5ffee;
 }
 
 /* Brand Colors */
@@ -82,7 +86,7 @@ hr,
 }
 
 .t-title__second-word {
-  color: #00cc44b6;
+  color: #1da5ffee;
 }
 
 .t-sub-title {
@@ -112,17 +116,13 @@ hr,
 }
 
 /* Icons */
-.fas{
-  color: #575859;
-},
-.far{
-  color: #575859;
-},
-.fal{
-  color: #575859;
-},
+.fas,
+.far,
+.fal,
+.fad,
+.ai,
 .fab {
-  color: #575859;
+  color: #e0e0e0;
 }
 
 /* Social Buttons */
